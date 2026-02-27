@@ -13,7 +13,7 @@
 
 | Banner 1 | Banner 2 |
 |:--------:|:--------:|
-| ![Banner 1](Screenshot 2026-02-27 062049.png) | ![Banner 2](public/banner2.jpg) |
+| ![Banner 1](public/banner2.jpg) | ![Banner 2](public/banner2.jpg) |
 
 | Banner 3 | Banner 4 |
 |:--------:|:--------:|

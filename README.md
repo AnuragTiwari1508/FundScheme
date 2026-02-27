@@ -13,7 +13,7 @@
 
 | Banner 1 | Banner 2 |
 |:--------:|:--------:|
-| ![Banner 1](public/banner2.jpg) | ![Banner 2](public/banner2.jpg) |
+| ![Banner 1](public/banner2.jpg) | ![Banner 2](public/banner1.jpg) |
 
 | Banner 3 | Banner 4 |
 |:--------:|:--------:|

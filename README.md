@@ -351,7 +351,6 @@ It builds trust through code, not intermediaries.
 # 👥 Team
 
 **IMAGINARY_CODER**  
-Hackathon Track: Open Innovation – Algorand  
 
 ---
 

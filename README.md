@@ -23,6 +23,9 @@
 |:--------:|:--------:|
 | ![Banner 5](public/BANNER5.png) | ![Banner 6](public/Banner6.png) |
 
+| Banner 7 | Banner 8 |
+|:--------:|:--------:|
+| ![Banner 7](public/banner6.png) | ![Banner 7](public/banner7.png) |
 </div>
 
 ---
